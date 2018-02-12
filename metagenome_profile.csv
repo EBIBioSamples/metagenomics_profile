@@ -1,0 +1,1120 @@
+,attribute,frequency
+0,Organism,38120
+1,synonym,37740
+2,host subject id,28843
+3,description,28557
+4,title,27754
+5,env biome,27708
+6,env feature,27708
+7,anonymized name,27430
+8,longitude,27316
+9,latitude,27316
+10,elevation,26983
+11,host taxid,26917
+12,colection date,26387
+13,host common name,25504
+14,body site,25478
+15,body product,25394
+16,body habitat,25377
+17,sample type,24841
+18,Sex,24772
+19,physical specimen location,24037
+20,public,23972
+21,physical specimen remaining,23659
+22,dna extracted,23576
+23,collection timestamp,22414
+24,country,20049
+25,bmi,18024
+26,assigned from geo,17562
+27,subset ibd,16344
+28,subset healthy,16344
+29,subset diabetes,16344
+30,subset age,16344
+31,subset bmi,16344
+32,subset antibiotic history,16344
+33,state,16091
+34,csection,15883
+35,chickenpox,15882
+36,diabetes,15828
+37,has physical specimen,15683
+38,ibd,15668
+39,height units,15643
+40,weight units,15643
+41,weight kg,15633
+42,env package,15385
+43,env material,15361
+44,non food allergies pet dander,15182
+45,non food allergies unspecified,15182
+46,collection season,15182
+47,alcohol types beercider,15182
+48,alcohol types red wine,15182
+49,alcohol types sour beers,15182
+50,alcohol types spiritshard alcohol,15182
+51,alcohol types unspecified,15182
+52,alcohol types white wine,15182
+53,allergic to other,15182
+54,allergic to unspecified,15182
+55,allergic to i have no food allergies that i know of,15182
+56,allergic to peanuts,15182
+57,survey id,15182
+58,non food allergies sun,15182
+59,non food allergies beestings,15182
+60,allergic to shellfish,15182
+61,non food allergies poison ivyoak,15182
+62,allergic to tree nuts,15182
+63,non food allergies drug eg penicillin,15182
+64,collection time,15175
+65,collection month,15148
+66,diet type,15127
+67,race,15112
+68,country of birth,15090
+69,drinking water source,15081
+70,sleep duration,15081
+71,exercise frequency,15073
+72,smoking frequency,15073
+73,alcohol consumption,15063
+74,alcohol frequency,15063
+75,dog,15053
+76,flossing frequency,15052
+77,multivitamin,15051
+78,deodorant use,15051
+79,pool frequency,15051
+80,teethbrushing frequency,15049
+81,height cm,15047
+82,cosmetics frequency,15039
+83,other supplement frequency,15035
+84,birth year,15033
+85,antibiotic history,15031
+86,cat,15028
+87,flu vaccine date,15019
+88,livingwith,15016
+89,acne medication otc,15010
+90,appendix removed,15007
+91,dominant hand,15006
+92,weight change,15004
+93,age years,14989
+94,acne medication,14988
+95,tonsils removed,14982
+96,nail biter,14976
+97,softener,14960
+98,lactose,14960
+99,exercise location,14951
+100,last travel,14944
+101,pku,14936
+102,seasonal allergies,14934
+103,age cat,14876
+104,bmi cat,14849
+105,age corrected,14843
+106,common name,14816
+107,env matter,14816
+108,lung disease,14787
+109,migraine,14708
+110,skin condition,14568
+111,gluten,14458
+112,altitude,14316
+113,depth,14208
+114,pregnant,14091
+115,contraceptive,13734
+116,economic region,13458
+117,census region,13458
+118,geo loc name,13313
+119,last move,12765
+120,consume animal products abx,12761
+121,types of plants,12756
+122,sugary sweets frequency,12755
+123,prepared meals frequency,12753
+124,cardiovascular disease,12752
+125,alzheimers,12752
+126,poultry frequency,12751
+127,probiotic frequency,12744
+128,epilepsy or seizure disorder,12744
+129,salted snacks frequency,12743
+130,meat eggs frequency,12743
+131,asd,12739
+132,fed as infant,12738
+133,whole eggs,12738
+134,frozen dessert frequency,12737
+135,milk cheese frequency,12736
+136,ready to eat meals frequency,12735
+137,milk substitute frequency,12735
+138,vitamin b supplement frequency,12734
+139,liver disease,12734
+140,vitamin d supplement frequency,12733
+141,seafood frequency,12733
+142,vegetable frequency,12733
+143,sugar sweetened drink frequency,12732
+144,red meat frequency,12732
+145,homecooked meals frequency,12731
+146,olive oil,12731
+147,thyroid,12731
+148,kidney disease,12730
+149,add adhd,12725
+150,fruit frequency,12723
+151,high fat red meat frequency,12719
+152,one liter of water a day frequency,12719
+153,autoimmune,12715
+154,whole grain frequency,12714
+155,bowel movement quality,12713
+156,lowgrain diet type,12705
+157,ibs,12704
+158,cdiff,12694
+159,level of education,12672
+160,fungal overgrowth,12668
+161,fermented plant frequency,12667
+162,sibo,12648
+163,bowel movement frequency,12624
+164,breastmilk formula ensure,12614
+165,clinical condition,12611
+166,roommates in study,12483
+167,required sample info status,11509
+168,depression bipolar schizophrenia,10833
+169,bmi corrected,10739
+170,age,10361
+171,artificial sweeteners,10071
+172,country residence,10070
+173,pets other,10066
+174,cancer,10066
+175,mental illness,10059
+176,acid reflux,10054
+177,vivid dreams,10053
+178,mental illness type anorexia nervosa,9844
+179,mental illness type bipolar disorder,9844
+180,mental illness type bulimia nervosa,9844
+181,mental illness type depression,9844
+182,mental illness type ptsd posttraumatic stress disorder,9844
+183,mental illness type schizophrenia,9844
+184,mental illness type substance abuse,9844
+185,mental illness type unspecified,9844
+186,age unit,9691
+187,model,9154
+188,package,9154
+189,cancer treatment,8933
+190,host,8878
+191,diabetes type,8853
+192,ENA-LAST-UPDATE,8792
+193,ENA-FIRST-PUBLIC,8792
+194,non food allergies,8452
+195,allergic to,8452
+196,ibd diagnosis refined,8452
+197,specialized diet,8452
+198,drinks per session,8452
+199,mental illness type,8452
+200,ibd diagnosis,8452
+201,alcohol types,8452
+202,vioscreen pfa226,8058
+203,vioscreen pfa225,8058
+204,vioscreen pfa205,8058
+205,vioscreen pfa204,8058
+206,vioscreen pfatot,8058
+207,vioscreen pfa184,8058
+208,vioscreen lycopene,8058
+209,vioscreen pfa183,8058
+210,vioscreen pfa182,8058
+211,vioscreen phosphor,8058
+212,vioscreen pectins,8058
+213,vioscreen pantothe,8058
+214,vioscreen oxalicm,8058
+215,vioscreen oxalic,8058
+216,vioscreen omega3,8058
+217,vioscreen phenylal,8058
+218,vioscreen protanim,8058
+219,vioscreen phytic,8058
+220,vioscreen pinitol,8058
+221,vioscreen potass,8058
+222,vioscreen procdate,8058
+223,vioscreen proline,8058
+224,vioscreen non fried fish servings,8058
+225,vioscreen protein,8058
+226,vioscreen protocol,8058
+227,vioscreen protveg,8058
+228,vioscreen questionnaire,8058
+229,vioscreen recno,8058
+230,vioscreen retinol,8058
+231,vioscreen rgrain,8058
+232,vioscreen ribofla,8058
+233,vioscreen sacchar,8058
+234,vioscreen nutrient recommendation,8058
+235,vioscreen mfatot,8058
+236,vioscreen nitrogen,8058
+237,vioscreen satoco,8058
+238,vioscreen m soy,8058
+239,vioscreen m poult,8058
+240,vioscreen m organ,8058
+241,vioscreen m nutsd,8058
+242,vioscreen m mpf,8058
+243,vioscreen m meat,8058
+244,vioscreen line gi,8058
+245,vioscreen niacineq,8058
+246,vioscreen low fat dairy serving,8058
+247,vioscreen lutzeax,8058
+248,vioscreen m frank,8058
+249,vioscreen m fish lo,8058
+250,vioscreen m fish hi,8058
+251,vioscreen m egg,8058
+252,vioscreen magnes,8058
+253,vioscreen maltitol,8058
+254,vioscreen maltose,8058
+255,vioscreen mangan,8058
+256,vioscreen mannitol,8058
+257,vioscreen methhis3,8058
+258,vioscreen methion,8058
+259,vioscreen mfa141,8058
+260,vioscreen mfa161,8058
+261,vioscreen mfa181,8058
+262,vioscreen mfa201,8058
+263,vioscreen mfa221,8058
+264,vioscreen lysine,8058
+265,vioscreen natoco,8058
+266,vioscreen nccglbr,8058
+267,vioscreen nccglgr,8058
+268,vioscreen niacin,8058
+269,vioscreen salad vegetable servings,8058
+270,vioscreen tgrain,8058
+271,vioscreen selenium,8058
+272,vioscreen v total,8058
+273,vioscreen vita iu,8058
+274,vioscreen visit,8058
+275,vioscreen vegsumm,8058
+276,vioscreen vegetable servings,8058
+277,vioscreen veg5 day,8058
+278,vioscreen valine,8058
+279,vioscreen v tomato,8058
+280,vioscreen serine,8058
+281,vioscreen v starcy,8058
+282,vioscreen v potato,8058
+283,vioscreen v other,8058
+284,vioscreen v orange,8058
+285,vioscreen v drkgr,8058
+286,vioscreen user id,8058
+287,vioscreen vita rae,8058
+288,vioscreen vita re,8058
+289,vioscreen vitb12,8058
+290,vioscreen vitb6,8058
+291,vioscreen vitc,8058
+292,vioscreen vitd,8058
+293,vioscreen vitd iu,8058
+294,vioscreen vitd2,8058
+295,vioscreen vitd3,8058
+296,vioscreen vite iu,8058
+297,vioscreen vitk,8058
+298,vioscreen water,8058
+299,vioscreen wgrain,8058
+300,vioscreen whole grain servings,8058
+301,vioscreen xylitol,8058
+302,vioscreen zinc,8058
+303,vioscreen legumes,8058
+304,vioscreen tyrosine,8058
+305,vioscreen tryptoph,8058
+306,vioscreen totsugar,8058
+307,vioscreen srvid,8058
+308,vioscreen sfa100,8058
+309,vioscreen sfa120,8058
+310,vioscreen sfa140,8058
+311,vioscreen sfa160,8058
+312,vioscreen sfa170,8058
+313,vioscreen sfa180,8058
+314,vioscreen sfa200,8058
+315,vioscreen sfa220,8058
+316,vioscreen sfa40,8058
+317,vioscreen sfa60,8058
+318,vioscreen sfa80,8058
+319,vioscreen sfatot,8058
+320,vioscreen sodium,8058
+321,vioscreen sorbitol,8058
+322,vioscreen starch,8058
+323,vioscreen totfolat,8058
+324,vioscreen started,8058
+325,vioscreen sucpoly,8058
+326,vioscreen sucrlose,8058
+327,vioscreen sucrose,8058
+328,vioscreen sweet servings,8058
+329,vioscreen tagatose,8058
+330,vioscreen tfa161t,8058
+331,vioscreen tfa181t,8058
+332,vioscreen tfa182t,8058
+333,vioscreen thiamin,8058
+334,vioscreen threonin,8058
+335,vioscreen time,8058
+336,vioscreen totaltfa,8058
+337,vioscreen totcla,8058
+338,vioscreen leucine,8058
+339,vioscreen finished,8058
+340,vioscreen lactose,8058
+341,vioscreen fol syn,8058
+342,vioscreen d tot soym,8058
+343,vioscreen d total,8058
+344,vioscreen d yogurt,8058
+345,vioscreen daidzein,8058
+346,vioscreen database,8058
+347,vioscreen delttoco,8058
+348,vioscreen discfat oil,8058
+349,vioscreen discfat sol,8058
+350,vioscreen dob,8058
+351,vioscreen adsugtot,8058
+352,vioscreen addsugar,8058
+353,vioscreen erythr,8058
+354,vioscreen f citmlb,8058
+355,vioscreen f nj citmlb,8058
+356,vioscreen f nj other,8058
+357,vioscreen add sug,8058
+358,vioscreen acesupot,8058
+359,vioscreen f nj total,8058
+360,vioscreen f other,8058
+361,vioscreen f total,8058
+362,vioscreen fat,8058
+363,vioscreen fiber,8058
+364,vioscreen fibh2o,8058
+365,vioscreen fibinso,8058
+366,vioscreen a cal,8058
+367,vioscreen fish servings,8058
+368,vioscreen fol deqv,8058
+369,vioscreen d milk,8058
+370,vioscreen d cheese,8058
+371,vioscreen cystine,8058
+372,vioscreen lactitol,8058
+373,vioscreen ash,8058
+374,vioscreen aspartam,8058
+375,vioscreen aspartic,8058
+376,vioscreen avcarb,8058
+377,vioscreen alphtoce,8058
+378,vioscreen betacar,8058
+379,vioscreen betacryp,8058
+380,vioscreen betaine,8058
+381,vioscreen betatoco,8058
+382,vioscreen biochana,8058
+383,vioscreen alphacar,8058
+384,vioscreen caffeine,8058
+385,vioscreen alcohol servings,8058
+386,vioscreen coumest,8058
+387,vioscreen alcohol,8058
+388,vioscreen alanine,8058
+389,vioscreen calcium from dairy servings,8058
+390,vioscreen calcium servings,8058
+391,vioscreen calories,8058
+392,vioscreen carbo,8058
+393,vioscreen cholest,8058
+394,vioscreen choline,8058
+395,vioscreen clac9t11,8058
+396,vioscreen clat10c12,8058
+397,vioscreen copper,8058
+398,vioscreen age,8058
+399,vioscreen fol nat,8058
+400,vioscreen formontn,8058
+401,vioscreen alphtoco,8058
+402,vioscreen hei2010 score,8058
+403,vioscreen hei score,8058
+404,vioscreen hei sodium,8058
+405,vioscreen hei sol fat alc add sug,8058
+406,vioscreen hei veg,8058
+407,vioscreen hei whl grains,8058
+408,vioscreen hei2010 dairy,8058
+409,vioscreen hei2010 empty calories,8058
+410,vioscreen hei2010 fatty acids,8058
+411,vioscreen hei2010 fruit,8058
+412,vioscreen hei2010 greens beans,8058
+413,vioscreen hei2010 protien foods,8058
+414,vioscreen hei2010 refined grains,8058
+415,vioscreen hei2010 sea foods plant protiens,8058
+416,vioscreen fried fish servings,8058
+417,vioscreen hei2010 sodium,8058
+418,vioscreen hei2010 veg,8058
+419,vioscreen hei2010 whole fruit,8058
+420,vioscreen hei2010 whole grains,8058
+421,vioscreen a bev,8058
+422,vioscreen histidin,8058
+423,vioscreen inositol,8058
+424,vioscreen iron,8058
+425,vioscreen isoleuc,8058
+426,vioscreen isomalt,8058
+427,vioscreen joules,8058
+428,vioscreen juice servings,8058
+429,vioscreen hei sat fat,8058
+430,vioscreen arginine,8058
+431,vioscreen gltc,8058
+432,vioscreen frtsumm,8058
+433,vioscreen fruit servings,8058
+434,vioscreen g nwhl,8058
+435,vioscreen g total,8058
+436,vioscreen g whl,8058
+437,vioscreen galactos,8058
+438,vioscreen gammtoco,8058
+439,vioscreen gender,8058
+440,vioscreen genistn,8058
+441,vioscreen glac,8058
+442,vioscreen frt5 day,8058
+443,vioscreen glucose,8058
+444,vioscreen glutamic,8058
+445,vioscreen glycine,8058
+446,vioscreen glycitn,8058
+447,vioscreen grams,8058
+448,vioscreen hei drk g org veg leg,8058
+449,vioscreen hei fruit,8058
+450,vioscreen hei grains,8058
+451,vioscreen hei meat beans,8058
+452,vioscreen hei milk,8058
+453,vioscreen hei non juice frt,8058
+454,vioscreen hei oils,8058
+455,vioscreen fried food servings,8058
+456,vioscreen fructose,8058
+457,vioscreen multivitamin,7851
+458,vioscreen multivitamin freq,7851
+459,vioscreen multi calcium dose,7851
+460,vioscreen multi calcium avg,7837
+461,vioscreen calcium,7729
+462,vioscreen calcium dose,7729
+463,vioscreen calcium freq,7729
+464,vioscreen calcium avg,7703
+465,vioscreen bcodeid,7621
+466,vioscreen weight,7621
+467,vioscreen subject id,7621
+468,vioscreen eer,7621
+469,vioscreen email,7621
+470,vioscreen activity level,7621
+471,vioscreen bmi,7621
+472,vioscreen height,7621
+473,vioscreen scfv,7261
+474,vioscreen scf,7261
+475,geographic location,7156
+476,specialized diet unspecified,6782
+477,specialized diet paleodiet or primal diet,6782
+478,specialized diet westenprice or other lowgrain low processed fo,6782
+479,specialized diet other restrictions not described here,6782
+480,specialized diet modified paleo diet,6782
+481,specialized diet kosher,6782
+482,specialized diet i do not eat a specialized diet,6782
+483,specialized diet halaal,6782
+484,specialized diet fodmap,6782
+485,specialized diet exclude refined sugars,6782
+486,specialized diet exclude nightshades,6782
+487,specialized diet exclude dairy,6782
+488,specialized diet raw food diet,6782
+489,roommates,5540
+490,host scientific name,5511
+491,latitude and longitude,5260
+492,environment material,4942
+493,environment biome,4904
+494,environment feature,4897
+495,geographic location (country and/or sea),4533
+496,diet,3941
+497,samp size,3679
+498,unknown,3676
+499,taxon id,3671
+500,sample id,3671
+501,PUBLIC,3393
+502,hiv,3086
+503,tot mass,2917
+504,physical location,2595
+505,host sex,2307
+506,has extracted data,2283
+507,isolation source,2250
+508,smoker,2175
+509,physical samp avail now,2134
+510,host age,2124
+511,chronic condition,2006
+512,atherosclerosis,1968
+513,common sample site,1968
+514,days since epoch,1968
+515,days since experiment start,1968
+516,hiv stat,1968
+517,mislabeled,1968
+518,myocardinfarct,1968
+519,extracted dna avail now,1932
+520,sample progress,1839
+521,malaria,1773
+522,host disease,1696
+523,village,1671
+524,family relationship,1665
+525,project name,1606
+526,investigation type,1571
+527,antibiotics,1488
+528,life stage,1347
+529,source material identifiers,1253
+530,vaginal csection,1118
+531,urine blood,1118
+532,pets other freetext,1118
+533,resp rate,1118
+534,spon abortions,1118
+535,stool parasite,1118
+536,syph,1118
+537,time delivery,1118
+538,well plate,1118
+539,urine bilirubin,1118
+540,urine haemolysis,1118
+541,vag delivery,1118
+542,well location,1118
+543,urine ketone,1118
+544,urine leukocyte,1118
+545,urine nitrite,1118
+546,urine ph,1118
+547,urine protein,1118
+548,urine spec grav,1118
+549,urine sugar,1118
+550,prev pregnancies,1118
+551,vaginal ph,1118
+552,urine urobilinogen,1118
+553,pulse,1118
+554,still births,1118
+555,place delivery,1118
+556,ideal weight,1118
+557,fetal movement 24h,1118
+558,hemoglobin,1118
+559,height or length,1118
+560,head circumfrence 2,1118
+561,head circumfrence 1,1118
+562,date extracted,1118
+563,head circumference 2,1118
+564,date delivery,1118
+565,compliance,1118
+566,adult infant,1118
+567,dob,1118
+568,gestation time,1118
+569,fetal hb,1118
+570,fundal size,1118
+571,fetal presentation,1118
+572,history sub fert,1118
+573,history cong,1118
+574,last period,1118
+575,muac infant 2,1118
+576,other ob history,1118
+577,ob complications,1118
+578,nugent score,1118
+579,nourishment status group,1118
+580,norm fetal mov,1118
+581,nausea,1118
+582,length infant 1,1118
+583,muac mm,1118
+584,muac infant 1,1118
+585,molar preg,1118
+586,living children,1118
+587,live births,1118
+588,lims,1118
+589,length infant 2,1118
+590,perc dev,1118
+591,family,1069
+592,role,1069
+593,sequencing method,1043
+594,environment (material),1035
+595,environment (biome),1035
+596,environment (feature),1035
+597,weight loss 3 month,1034
+598,gbs,1016
+599,env,1016
+600,type age,1016
+601,type,1016
+602,superbodysiteoralskinunknownsevaginaanalsaureola,1016
+603,studyinstitutionupr nyu ucol b,1016
+604,sampling date m d yy,1016
+605,preservation method n2 frozen 70frozenn2rna laterfreshphenol c,1016
+606,planned sampling day 0 1 3 7 14 30 60 90 365,1016
+607,motherorbaby m b,1016
+608,family number,1016
+609,ethnicgroup,1016
+610,diet description,1016
+611,diet b exclusisbreast f formula bf breasfedformula bs breasts,1016
+612,delivery vvaginal ccs icsinoc,1016
+613,bodysite oralmucosa forehead volarright palmright footright vag,1016
+614,baby birth date,1016
+615,antibiotics at birth,1016
+616,antibiotics after birth,1016
+617,age baby days,1016
+618,sample storage temperature,1015
+619,other medications,1014
+620,age units,1005
+621,bp sys,951
+622,anytimeseries,947
+623,control,947
+624,guttimeseries,947
+625,bodysite,947
+626,foreheadtimeseries,947
+627,antibiotic disturbance,947
+628,ambiguoustimepoint,947
+629,idmenstruationdisturbance,947
+630,type sample,947
+631,well,947
+632,idantibioticdisturbance,947
+633,mislabeledprobabove0point75,947
+634,tonguetimeseries,947
+635,mislabeledprobabove0point70,947
+636,samplesicknessdisturbance,947
+637,sampleplate,947
+638,samplemenstruationdisturbance,947
+639,sampleantibioticdisturbance,947
+640,primerplate,947
+641,personalidsicknessdisturbance,947
+642,sickness disturbance,947
+643,palmtimeseries,947
+644,mislabeledprobabove0point99,947
+645,mislabeledprobabove0point95,947
+646,illumina technology,947
+647,mislabeledprobabove0point85,947
+648,mislabeledprobabove0point80,947
+649,mislabeledprobabove0point90,947
+650,mislabeledprobabove0point65,947
+651,mislabeledprobabove0point35,947
+652,menstruation disturbance,947
+653,mislabeledprobabove0point05,947
+654,mislabeledprobabove0point10,947
+655,mislabeledprobabove0point20,947
+656,mislabeledprobabove0point25,947
+657,mislabeledprobabove0point30,947
+658,mislabeledprobabove0point15,947
+659,mislabeledprobabove0point45,947
+660,mislabeledprobabove0point50,947
+661,mislabeledprobabove0point40,947
+662,mislabeledprobabove0point55,947
+663,mislabeledprobabove0point60,947
+664,bp dia,936
+665,university,915
+666,weekssincestart,915
+667,timepoint,912
+668,stopweek,897
+669,totalindividualweeks,897
+670,startweek,897
+671,weekdescription,897
+672,weeknumber,897
+673,sequencecountabove10000,890
+674,observedotus,890
+675,shannonevenness,890
+676,pd,890
+677,dailymultivitamin,880
+678,facialcosmetics,880
+679,glutenintolerant,880
+680,prescriptionforfacialacne,880
+681,poisonivyoakallergies,880
+682,lactoseintolerant,880
+683,otherspecialdiet,880
+684,greekhouse,880
+685,dogs,880
+686,dominanthand,880
+687,drinkalcohol,880
+688,drugallergies,880
+689,othersupplements,880
+690,fluvaccine,880
+691,flossteeth,880
+692,overthecounterfacialacne,880
+693,exerciseroutine,880
+694,smokecigarettes,880
+695,sunallergies,880
+696,swimmingpoolhottubuse,880
+697,campusdining,880
+698,bitefingernails,880
+699,beestingallergies,880
+700,asthma,880
+701,artificialtanning,880
+702,appendix,880
+703,brushteeth,880
+704,cats,880
+705,tonsils,880
+706,movetocurrentlocation,880
+707,hormonalbirthcontrol,880
+708,oncampushousing,880
+709,weightchanges,880
+710,hoursofsleep,880
+711,traveledoutofus,880
+712,fabricsoftener,880
+713,deodorantantiperspirant,879
+714,hospital,878
+715,exerciseindoorsoutdoors,870
+716,peanutallergy,870
+717,othermedication,870
+718,shellfishallergy,870
+719,otherallergies,870
+720,treenutallergy,870
+721,seasonalallergies,868
+722,roomates,868
+723,raceethnicity,867
+724,bv results,854
+725,agegroup,852
+726,zipcode,836
+727,target gene,831
+728,bmiclass,784
+729,symptoms,783
+730,empo 3,767
+731,empo 2,767
+732,empo 1,767
+733,empo 0,767
+734,Type,762
+735,label,760
+736,isolate,752
+737,host tissue sampled,748
+738,sample collection device or method,740
+739,reference for biomaterial,734
+740,"geographic location (country and/or sea,region)",732
+741,Cancer status,722
+742,Subject number,722
+743,Visit,722
+744,ethnic group,720
+745,latitude (raw),710
+746,longitude (raw),710
+747,body mass index,701
+748,location,663
+749,hb,655
+750,shabono,655
+751,host temp,655
+752,birth,655
+753,hb units,655
+754,height m,623
+755,age mother y,602
+756,antibiotic,600
+757,organism part,550
+758,sample volume or weight for DNA extraction,540
+759,host family relationship,540
+760,disease stat,536
+761,human gut environmental package,530
+762,environmental package,521
+763,pet farm animal,512
+764,comments,511
+765,subject,511
+766,biomaterial provider,508
+767,hmp site,478
+768,age category,478
+769,admission type,478
+770,bmi category,478
+771,adequacyproten median,478
+772,daysfromhosp,478
+773,adequacyproten class,478
+774,first pn,478
+775,highest glucose,478
+776,highest glucose mmoll,478
+777,hospdays lt 22,478
+778,hospevent,478
+779,hospdays,478
+780,nutric comob,478
+781,icu,478
+782,nutric score lt 5,478
+783,ventdays lt 7,478
+784,ventdays,478
+785,title body site,478
+786,title acronym,478
+787,study id,478
+788,sofa score,478
+789,simple body site,478
+790,pt die icu yn,478
+791,adequacycalsen median,478
+792,pn gt 5,478
+793,patientdied,478
+794,nutric sofa,478
+795,probiotics yn,478
+796,nutric score,478
+797,is pgp,478
+798,adequacycalsen class,478
+799,ards yn,478
+800,icudays lt 15,478
+801,icuevent,478
+802,icudays,478
+803,lowest glucose,478
+804,lowest glucose mmoll,478
+805,mv start yn,478
+806,nutric age,478
+807,nutric apache,478
+808,apache score,478
+809,weight,461
+810,breed,461
+811,breed grouping,461
+812,corrected,461
+813,height,461
+814,travel history,461
+815,participant name,461
+816,pre post ownership,461
+817,visit,461
+818,sample name orig,461
+819,subjectid,461
+820,drug type,455
+821,daily kcal presc entered,451
+822,pocketdepth,434
+823,sex infant 1,431
+824,disease state,425
+825,medication drug,422
+826,drug name,422
+827,individual,418
+828,patient id,416
+829,est delivery,415
+830,weight infant 1,414
+831,babygender m f,414
+832,icu day 60 yn,402
+833,infant alive deceased,390
+834,sff name,381
+835,Mouthwash,381
+836,pt die hosp yn,380
+837,patient number,378
+838,sample site,364
+839,from jamie,364
+840,analyzed,364
+841,hosp day 60 yn,361
+842,drug usage,359
+843,days on yogurt,347
+844,days rcvd yogurt,347
+845,first day yogurt,347
+846,seq methods,340
+847,weightstatus,340
+848,treatment,323
+849,isolation and growth condition,319
+850,sample title,297
+851,ind time tooth,287
+852,tooth sampled long,287
+853,surface long,287
+854,tooth sampled,287
+855,samplesite,287
+856,rd code,287
+857,time point,287
+858,old names,287
+859,pocketclass,286
+860,diseasclass,286
+861,pdepthreclass,284
+862,tx ctl,284
+863,bop,284
+864,human-associated environmental package,284
+865,illi radius,283
+866,inflammation,283
+867,biological specimen,278
+868,illi z coord,276
+869,illi y coord,276
+870,illi x coord,276
+871,non operative,259
+872,chemical administration,255
+873,ex score,254
+874,wl score,254
+875,who5 raw score,254
+876,who5 percentage,254
+877,emotional problems limits,254
+878,emotional wellbeing,254
+879,energy fatigue,254
+880,general health,254
+881,frailty score,254
+882,ucla score,254
+883,health change,254
+884,idssr score,254
+885,pa score,254
+886,pain,254
+887,physical functioning,254
+888,physical health limits,254
+889,walk score,254
+890,qids score,254
+891,qlesq percentage,254
+892,qlesq raw score,254
+893,social functioning,254
+894,w score,254
+895,Host DrinkSoda,250
+896,observed biotic relationship,250
+897,Host SmokeTobacco,250
+898,Host BrushTeeth,250
+899,Host CurrentAlcohol,250
+900,Study SubjectID,250
+901,Study Site,250
+902,Study SampleID,250
+903,Study HIVStatus,250
+904,Study AnatomicSite,250
+905,ethinicity,250
+906,Host SexBeh,250
+907,Host PD,250
+908,Host HIVViralLoad,250
+909,Host FlossTeeth,250
+910,Host FinancialStatus,250
+911,BioSampleModel,249
+912,ethnicity,246
+913,Host EatCandy,245
+914,comment,240
+915,Host SalivapH,240
+916,Diseased,236
+917,Sample Site,236
+918,Subject,236
+919,whole name,236
+920,Tobacco 2,236
+921,Tobacco 1,233
+922,Alcohol,233
+923,health state,233
+924,Admitted to PICU,229
+925,Patient ID,229
+926,Study Day,229
+927,operative condition,219
+928,host body product,217
+929,indoor outdoor,207
+930,Host CD4,200
+931,date recruitment,198
+932,humam oral environmental package,197
+933,reverse primer name,194
+934,primer name,194
+935,reverse primer linker,194
+936,reverse primer,194
+937,illumina technlogy,194
+938,time feeding,191
+939,otherinfo,189
+940,Host ART,180
+941,replicate,175
+942,extraction method,163
+943,Vaccine Treatment,162
+944,Volunteer id,162
+945,sample material processing,161
+946,subject id,161
+947,ectopic preg,152
+948,c sections,152
+949,elect term,152
+950,center name,149
+951,day,149
+952,miscellaneous parameter,148
+953,attachmentloss,147
+954,responder,147
+955,Day,145
+956,host total mass,144
+957,Smoking status,141
+958,cdiff positive yn,138
+959,improve,133
+960,skinconditions,122
+961,temperature,119
+962,date first deliv,117
+963,age first preg,114
+964,delivery mode,107
+965,host order,105
+966,gut physiology,105
+967,host family,105
+968,host major clade,105
+969,wild captive,105
+970,tooth,101
+971,probing depth,101
+972,target subfragment,100
+973,unique descriptor,100
+974,full name,92
+975,condition,87
+976,sample timepoint,86
+977,sample barcode,86
+978,travel time frame,76
+979,sample treatment,76
+980,sample,76
+981,category,76
+982,patient,76
+983,source,76
+984,last day yogurt,74
+985,btw last yogurt last visit,74
+986,btw last day yogurt birthdate,74
+987,twin sibling existence,72
+988,geographic location (country and/or sea,72
+989,SampleRegion,72
+990,AnalysisSampleID,72
+991,Order BAL sample taken,72
+992,FEV1,72
+993,total mass,72
+994,sample size,68
+995,strain,68
+996,village shabono name,65
+997,nose/mouth/teeth/throat disorder,60
+998,Sample number,60
+999,sample storage location,58
+1000,perturbation,57
+1001,bmi less 184,56
+1002,bmi 185 249,56
+1003,samp store loc,56
+1004,samp store dur,56
+1005,body status,56
+1006,samp collect device,56
+1007,obesity degree,56
+1008,obesity,56
+1009,time since last toothbrush,56
+1010,time collection,56
+1011,emp status,56
+1012,bmi 25 299,56
+1013,bmi 30 349,56
+1014,bmi 35 399,56
+1015,bmi greater 40,56
+1016,samp store temp,56
+1017,respiratory,55
+1018,organism type1,54
+1019,time since last toothbrushing,52
+1020,descriHTIPT130ion,50
+1021,sample storage duration,50
+1022,host phenotype,50
+1023,atbx timeframe,48
+1024,sample location,48
+1025,notes,45
+1026,Sample ID,44
+1027,tmp,41
+1028,ph,41
+1029,454 Sequence Barcode,39
+1030,sample information,39
+1031,twin type,38
+1032,twin pair,38
+1033,collected by,38
+1034,source name,38
+1035,decription,37
+1036,host height,36
+1037,sex infant 2,32
+1038,weight infant 2,32
+1039,diabetes-status,31
+1040,periodontal-depth,31
+1041,Species,31
+1042,periodontitis-status,31
+1043,secondary description,31
+1044,sff names,26
+1045,sepsis,25
+1046,Barcode,24
+1047,health status collapsed,22
+1048,specimen type,22
+1049,specimen type collapsed,22
+1050,partecipants,21
+1051,Run,19
+1052,current disease,18
+1053,pneumonia status,18
+1054,adapters,17
+1055,time (in days) from start of the experiment,17
+1056,pcr primers,17
+1057,note,16
+1058,bio material,16
+1059,"sucrose frequency (artificial applicated, per day)",16
+1060,library prep,15
+1061,fraction,15
+1062,enzyme,15
+1063,medical history performed,12
+1064,Tobacco use,12
+1065,dental prosthesis,12
+1066,Alcohol use,12
+1067,bacteria human ratio,12
+1068,i5 index id,12
+1069,index,12
+1070,index id,12
+1071,index2,12
+1072,sample plate,12
+1073,sample well,12
+1074,time points,12
+1075,site,12
+1076,smoker n cigarettes day,10
+1077,sample ID,10
+1078,cleansing (yes/no),10
+1079,multiplex identifiers,9
+1080,allergy,9
+1081,material,8
+1082,samp mat process,8
+1083,continent,8
+1084,Sequencing method,8
+1085,Project name,8
+1086,nose mouth teeth throat disord,8
+1087,Investigation type,8
+1088,sample strategy,8
+1089,time last toothbrush,8
+1090,isol growth condt,8
+1091,"Geographic location (country:region,area)",8
+1092,feature,8
+1093,Environment (material),8
+1094,pcr conditions,8
+1095,Environment (featurel),8
+1096,collection timezone,8
+1097,Environment (biome),8
+1098,Enviornmental package,8
+1099,ENA-KEYWORD,8
+1100,biome,8
+1101,BROKER OBJECT ID,8
+1102,mgrast id,8
+1103,misc param 1,8
+1104,chimera check,8
+1105,host body mass index,7
+1106,Sample,6
+1107,subject number,6
+1108,sample comment,5
+1109,hypertension,5
+1110,diet restrictions list,3
+1111,smoking status,3
+1112,last meal,2
+1113,weight group,2
+1114,bioproject id,1
+1115,relationship to oxygen,1
+1116,subsource note,1
+1117,age group,1
+1118,frozen desert frequency,1
