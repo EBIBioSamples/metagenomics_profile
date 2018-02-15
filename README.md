@@ -2,6 +2,12 @@
 
 Given a subset of ENA project identifiers related to metagenomics can we explore the sample attributes, profile different types and curate? All code is written in python 3. Note that you also require samples.csv. This is a large file that exceeds the 100MB limit on git. This file can be generated using the BioSamples API with `make_input.py` (see https://github.com/EBIBioSamples/curami for more details). Otherwise please get in touch and I can send you the latest dump (hewgreen@ebi.ac.uk).
 
+## Getting Started
+
+1. Have a look at the attribute counts in `metagenome_profile.csv`. This is for the whole subset of 38120 samples.
+1. Look at the coocurence raw data in `samples_subset_coocurences.csv` or weighted `coexistencesProb.csv`
+1. Download gephi and look at `session_file.gephi` or `coexistences.gexf`
+
 ## Data Processing (`ID_converter.py`)
 `input.txt` contains a list of ENA project identifiers. `ID_converter.py` expands these project IDs into individual sample IDS using the ENA API and XML parsing. Then we convert these into BiopSamples IDs again from the ENA API with XML parsing. The script makes three files, `expanded_ENAIDs.json`, `missing_BioSampleIDs.json` and `fetched_BioSampleIDs.json`. The latter is required for the next script.
 
