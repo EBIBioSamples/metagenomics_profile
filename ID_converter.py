@@ -5,13 +5,6 @@ Input file is a list of ENA study/sample IDs
 
 Output is a dictionary of the mapped IDs and a list of IDs that failed to find a BioSamples ID.
 
-
-# https://www.ebi.ac.uk/ena/data/view/DRP002882&display=xml an input (study)
-# https://www.ebi.ac.uk/ena/data/view/ERR441920&display=xml a missing conversion (run)
-# https://www.ebi.ac.uk/ena/data/view/SRS1729571&display=xml a successful conversion (sample)
-
-experiments and runs are missed. Only ENA samples are mapped to BioSample IDs
-
 '''
 
 import requests, sys, csv, re, json, time, logging
@@ -204,12 +197,14 @@ if __name__ == '__main__':
 	# map to BioSamples IDs
 	print('Converting ENA IDs to BioSample IDs')
 
-	pool = ThreadPool(4) 
-	results = pool.map(ENAtoBioSID, ENA_ids)
-	pool.close() 
-	pool.join() 
+	# untested multithreading
 
-	# results = ENAtoBioSID(ENA_ids)
+	# pool = ThreadPool(4) 
+	# results = pool.map(ENAtoBioSID, ENA_ids)
+	# pool.close() 
+	# pool.join() 
+
+	results = ENAtoBioSID(ENA_ids)
 	BioSampleIDs = results[0]
 	missing_BioSampleIDs = results[1]
 
